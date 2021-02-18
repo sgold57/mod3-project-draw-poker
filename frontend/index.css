@@ -24,9 +24,7 @@ body{
 
 
 .form-container{
-  height: 75px;
+  height: 25px;
   display: flex;
   align-content: center;
-  justify-content: space-evenly;
-  flex-grow: 5;
 }
