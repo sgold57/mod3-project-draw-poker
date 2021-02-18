@@ -1,0 +1,32 @@
+body{
+  background-color: chartreuse;
+}
+
+.card-container{
+  display: flex;
+  align-content: center;
+  justify-content: space-evenly;
+  flex-grow: 5
+}
+
+.card-in-hand-image{
+  width: 150px;
+  height: 208px
+}
+
+.to-hit-form{
+  height: 50px;
+  width: 1050px;
+  display: flex;
+  align-content: flex-start;
+  justify-content: space-around;
+}
+
+
+.form-container{
+  height: 75px;
+  display: flex;
+  align-content: center;
+  justify-content: space-evenly;
+  flex-grow: 5;
+}
