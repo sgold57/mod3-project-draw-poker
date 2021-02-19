@@ -9,28 +9,29 @@
   <script src="app.js" defer></script>
 </head>
 <body>
-  <h1>WE HERE</h1>
+
+  <section class="form-container">
+    <form id="cards-to-hit-form">
+      <label for="cards-for-hit" id="hit-label">How many cards would you like to exchange?</label>
+      <select name="cards-for-hit" id="hit-number" default="--">
+        <option value="none">I SAID HOW MANY?</option>
+        <option value="0">0</option>
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+        <option value="4">4</option>
+        <option value="5">5</option>
+      </select>
+    </form>
+    </section>
+  
+    <form id="select-cards-form" onsubmit="return false">
+    </form>
 
   <section class="card-container">
   </section>
 
-  <section class="form-container">
-  <form id="cards-to-hit-form">
-    <label for="cards-for-hit" id="hit-label">How many cards would you like to exchange?</label>
-    <select name="cards-for-hit" id="hit-number" default="--">
-      <option value="none">HOW MANY?</option>
-      <option value="0">0</option>
-      <option value="1">1</option>
-      <option value="2">2</option>
-      <option value="3">3</option>
-      <option value="4">4</option>
-      <option value="5">5</option>
-    </select>
-  </form>
-  </section>
 
-    <form id="select-cards-form">
-    </form>
   
 </body>
 </html>
