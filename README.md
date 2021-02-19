@@ -1,6 +1,9 @@
 # Background/Objective
 My project for Mod3 is a draw poker app. Although lacking in full functionality, I have managed to be able to chronicle each step of the way and understand exactly where my issues occur (a real time Byebug, if you will).
 
+# Video
+https://youtu.be/EqfIw6CKiSw
+
 # Technologies Used
 - HTML
 - CSS
