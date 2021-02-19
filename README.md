@@ -23,5 +23,5 @@ I was unable to successfully execute the hit function, as I could not reconcile 
 Ideally, if I were to continue w/ this project, I'd add the option for users to sign up and have the option of choosing how many hands they'd like to play (and thus giing users ability to save their high scores for each denomination of gameplay).
 Additionally, I wanted to incorporate the Jeopardy trivia API to act as a buffer between successfully substituting a card (if question answered incorrectly, user does not get new card). 
 
-#Contact
+# Contact
 Program made by [Sam Gold](https://github.com/sgold57). Please contact if you have any questions or concerns.
